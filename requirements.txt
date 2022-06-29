@@ -1,0 +1,2 @@
+torch
+bayesian-optimization == 1.2.0
